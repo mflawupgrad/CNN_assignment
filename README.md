@@ -21,9 +21,8 @@ Accuracy on training data is increased to around 85% by using Augmentor library.
 
 The class rebalance is helped for overfitting issue.
 
-But the Model is still overfitting(95% vs 85%), it can be solved by add more layer,neurons or adding dropout layers, and tuning the hyperparameter.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+For better accuracy, it can be solved by add more layer,neurons or adding dropout layers, and tuning the hyperparameter.
 
 
 ## Technologies Used
