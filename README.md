@@ -19,7 +19,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 ## Conclusions
 Accuracy on training data is increased to around 85% by using Augmentor library.
 
-The class rebalance is helped for overfitting issue.
+The class rebalance is solved for overfitting issue.
 
 
 For better accuracy, it can be solved by add more layer,neurons or adding dropout layers, and tuning the hyperparameter.
