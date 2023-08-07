@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername](LAW MAN FAI) - feel free to contact me!
+Created by LAW MAN FAI - feel free to contact me!
 
 
 <!-- Optional -->
